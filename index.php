@@ -8,22 +8,25 @@
     <title>Le pendu</title>
 </head>
 <body>
+    
     <div id='score'>
         <p></p>
 
     </div>
+
     <div id="wrapper">
         <div id='answer'>
         <ul></ul>
 
         </div>
-    </div>
+    
 
-    <div id='choices'>
+        <div id='choices'>
         <ul>
 
         </ul>
 
+        </div>
     </div>
 
     
